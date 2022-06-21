@@ -1,0 +1,10 @@
+.remove-button:hover, .remove-button:focus, .remove-button:active {
+    background: #efd8c8 !important;
+    border: 2px solid #eb955e !important;
+    color: black;
+}
+.edit-button:hover, .edit-button:focus, .edit-button:active {
+    background: #d6dcee !important;
+    border: 2px solid #7a84c8 !important;
+    color: black;
+}
